@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThilotoSanchez
+- 👀 I’m interested in future technologies such as AI, ML and smart systems.
+- 🌱 I’m currently learning Python with a short history of Machine Learning and Data Science in Kaggle.
+- 💞️ I’m looking to collaborate on cool projects for Beginners and supprt in extending my knowledge.
